@@ -1,0 +1,8 @@
+nim : 1811500001
+nama : yolanda 
+kelompok : ti6j
+
+hasil saya menyadur :
+1) ada tugas untuk menyadur tiap pertemuan dan ditaruh di github
+2) buat kelompok persentasi setiap 3 orang mahasiswa perkelompok 
+3)dst 
